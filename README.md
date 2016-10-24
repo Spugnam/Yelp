@@ -51,6 +51,10 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 Describe any challenges encountered while building the app.
 
+I suffered quite a bit and spent a lot of time on this. I asked for help several times and tried to switch back and forth between the Lab and the Assignment but I'm still a little short on Sunday night.
+Most errors were very simple things I expect not to do again, however I was still confused with GitHub manipulation or file management in xCode which didn't help.
+I barely managed to finish the mandatory features: I did the distance sorting but not the best match/ highest ratings.
+
 ## License
 
     Copyright [2016] [Quentin Picard]
